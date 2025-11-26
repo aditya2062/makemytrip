@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MakemytripApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MakemytripApplication.class, args);
+//		SpringApplication.run(MakemytripApplication.class, args);
+        System.out.println("Hello, Aditya");
 	}
 
 }
