@@ -6,5 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class visa {
     @GetMapping("/visa")
-    public String getData() {return  "Get Visa Card" ; }
+    public String getData() {return  "Get Visa Card of HDFC BANK" ; }
 }
